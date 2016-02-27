@@ -17,7 +17,7 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <main>
-            <h2>Ciao mondo! Sto imparando come gestire i conflitti tra branch.</h2>
+            <h2>Ciao mondo! Sto imparando come gestire i conflitti tra branch. E questo sarà frutto di conflitto.</h2>
         </main>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
